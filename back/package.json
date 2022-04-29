@@ -7,7 +7,7 @@
     "npm": "2.14.0"
   },
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^2.6.4",
     "body-parser": "^1.15.0",
     "cookie-parser": "^1.4.1",
     "cors": "^2.8.5",
